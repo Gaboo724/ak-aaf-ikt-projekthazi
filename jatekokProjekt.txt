@@ -1,0 +1,10 @@
+The Witcher 3: Wild Hunt;RPG;15000,2015
+STALKER 2: Heart of Chornobyl;FPS,25500;2024
+League of Legends;MMO;0;2009
+Valorant;FPS;0;2019
+Subnautica;Survival;16900;2014
+Dark Reign 2;RPG;3300;2000
+Age of Empires IV;RPG;9000;2021
+Grand Theft Auto V;TPS;8300;2015
+Cyberpunk 2077;RPG;19000;2020
+Elden Ring;RPG;15000;2022
