@@ -1,5 +1,5 @@
-The Witcher 3: Wild Hunt;RPG;15000,2015
-STALKER 2: Heart of Chornobyl;FPS,25500;2024
+The Witcher 3: Wild Hunt;RPG;15000;2015
+STALKER 2: Heart of Chornobyl;FPS;25500;2024
 League of Legends;MMO;0;2009
 Valorant;FPS;0;2019
 Subnautica;Survival;16900;2014
